@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/social/static/css/main.3d919aac.chunk.css",
+    "main.js": "/social/static/js/main.24cd81b0.chunk.js",
+    "main.js.map": "/social/static/js/main.24cd81b0.chunk.js.map",
+    "runtime-main.js": "/social/static/js/runtime-main.19b03f6b.js",
+    "runtime-main.js.map": "/social/static/js/runtime-main.19b03f6b.js.map",
+    "static/js/2.856ae4cc.chunk.js": "/social/static/js/2.856ae4cc.chunk.js",
+    "static/js/2.856ae4cc.chunk.js.map": "/social/static/js/2.856ae4cc.chunk.js.map",
+    "index.html": "/social/index.html",
+    "static/css/main.3d919aac.chunk.css.map": "/social/static/css/main.3d919aac.chunk.css.map",
+    "static/js/2.856ae4cc.chunk.js.LICENSE.txt": "/social/static/js/2.856ae4cc.chunk.js.LICENSE.txt",
+    "static/media/atlanta.72c71a0c.jpg": "/social/static/media/atlanta.72c71a0c.jpg",
+    "static/media/bcn.49081241.jpg": "/social/static/media/bcn.49081241.jpg",
+    "static/media/frankfurt.ec9d730d.jpg": "/social/static/media/frankfurt.ec9d730d.jpg",
+    "static/media/hongkong.0861bba0.jpg": "/social/static/media/hongkong.0861bba0.jpg",
+    "static/media/newyork.6f3d8113.jpg": "/social/static/media/newyork.6f3d8113.jpg",
+    "static/media/paris.e1dd9d4e.jpg": "/social/static/media/paris.e1dd9d4e.jpg",
+    "static/media/seattle.f4d6dce6.jpg": "/social/static/media/seattle.f4d6dce6.jpg",
+    "static/media/seoul.27b548d4.jpg": "/social/static/media/seoul.27b548d4.jpg",
+    "static/media/tokyo.79427969.jpg": "/social/static/media/tokyo.79427969.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b03f6b.js",
+    "static/js/2.856ae4cc.chunk.js",
+    "static/css/main.3d919aac.chunk.css",
+    "static/js/main.24cd81b0.chunk.js"
+  ]
+}
