@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/social/static/css/main.cc98de16.chunk.css",
-    "main.js": "/social/static/js/main.2f675248.chunk.js",
-    "main.js.map": "/social/static/js/main.2f675248.chunk.js.map",
+    "main.css": "/social/static/css/main.7a95a9de.chunk.css",
+    "main.js": "/social/static/js/main.488db63d.chunk.js",
+    "main.js.map": "/social/static/js/main.488db63d.chunk.js.map",
     "runtime-main.js": "/social/static/js/runtime-main.19b03f6b.js",
     "runtime-main.js.map": "/social/static/js/runtime-main.19b03f6b.js.map",
     "static/js/2.856ae4cc.chunk.js": "/social/static/js/2.856ae4cc.chunk.js",
     "static/js/2.856ae4cc.chunk.js.map": "/social/static/js/2.856ae4cc.chunk.js.map",
     "index.html": "/social/index.html",
-    "static/css/main.cc98de16.chunk.css.map": "/social/static/css/main.cc98de16.chunk.css.map",
+    "static/css/main.7a95a9de.chunk.css.map": "/social/static/css/main.7a95a9de.chunk.css.map",
     "static/js/2.856ae4cc.chunk.js.LICENSE.txt": "/social/static/js/2.856ae4cc.chunk.js.LICENSE.txt",
     "static/media/atlanta.72c71a0c.jpg": "/social/static/media/atlanta.72c71a0c.jpg",
     "static/media/bcn.49081241.jpg": "/social/static/media/bcn.49081241.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.19b03f6b.js",
     "static/js/2.856ae4cc.chunk.js",
-    "static/css/main.cc98de16.chunk.css",
-    "static/js/main.2f675248.chunk.js"
+    "static/css/main.7a95a9de.chunk.css",
+    "static/js/main.488db63d.chunk.js"
   ]
 }
